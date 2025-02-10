@@ -710,7 +710,6 @@ a{
 
     height: 100vh;
     width: 100vw;
-    
     object-fit: cover;
 }
 
@@ -912,6 +911,25 @@ a{
 .overlay.active {
     visibility: visible;
     opacity: 1;
+}
+
+footer{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5%;
+    background-color:#f6c97d;
+    height: 6vh;
+    border: 2px solid black;
+   
+
+}
+
+.social{
+
+    height: 70%;
+    cursor: pointer;
 }
 
 
