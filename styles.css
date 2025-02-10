@@ -316,12 +316,12 @@ background-color: rgb(255,255,255,0.7);
     width: 350px;
     background-color:rgb(255,255,255,0.5);
     /* border: 1px solid black; */
-    gap:16vw;
+    gap:15.5vw;
     border-radius: 50px;
-    margin: 4vw;
+    margin: 10vh 2vw 2vh 2vw;
     display: flex;
     flex-direction: column;
-    padding: 6px;
+    padding: 5px;
     align-items: center;
 
 }
